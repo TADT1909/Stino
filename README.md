@@ -36,15 +36,18 @@ Manual installation has only two steps:
 
 2. Download [zip file] from this branch, and extract the folder to the packages folder, and the Arduino menu appears.
 
-Auto installation is much easier:
+Install directly on Sublime is much easier:
+
 1. In Sublime Text, press hotkey Ctrl + Shitf + P
-  -> Type: "Add reposistory"
-  -> Enter
-2. Paste this link: "https://github.com/TADT1909/Stino"
-  -> Enter
+  -> Type: "Add reposistory" -> Enter
+
+2. Paste this link: "https://github.com/TADT1909/Stino" -> Enter
+
 3. Press hotkey Ctrl + Shitf + P
   -> Type: "Install Package"
    -> Enter
+   
 4. Type "Stino"
   -> Enter
+  
 That's it! You installed Stino.
