@@ -44,7 +44,7 @@ Auto installation is much easier:
   -> Enter
 3. Press hotkey Ctrl + Shitf + P
   -> Type: "Install Package"
-  -> Enter
+   -> Enter
 4. Type "Stino"
   -> Enter
- That's it! You installed Stino.
+That's it! You installed Stino.
